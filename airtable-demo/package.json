@@ -1,0 +1,13 @@
+{
+  "name": "airtable-demo",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "airtable": "^0.5.8",
+    "gridsome": "^0.3.0"
+  }
+}
